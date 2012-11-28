@@ -1,0 +1,9 @@
+bin\PhysicsIllustrator.SmartTag.dll
+bin\PhysicsIllustrator.SmartTag.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PhysicsIllustrator.SmartTag.Error.ico
+obj\Debug\PhysicsIllustrator.SmartTag.Information.ico
+obj\Debug\PhysicsIllustrator.SmartTag.Lightning.ico
+obj\Debug\PhysicsIllustrator.SmartTag.Warning.ico
+obj\Debug\PhysicsIllustrator.SmartTag.dll
+obj\Debug\PhysicsIllustrator.SmartTag.pdb

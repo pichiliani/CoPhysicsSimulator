@@ -1,0 +1,5 @@
+obj\Debug\MandaDigitos.exe
+obj\Debug\MandaDigitos.pdb
+bin\Debug\MandaDigitos.exe
+bin\Debug\MandaDigitos.pdb
+obj\Debug\ResolveAssemblyReference.cache

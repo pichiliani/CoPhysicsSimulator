@@ -1,0 +1,16 @@
+C:\Meus documentos\pos\Tese\ArtigoACMGroup2009\PhysicsSimulation\PhysicsIllustratorSource\PhysicsIllustrator\bin\PhysicsIllustrator.exe.config
+C:\Meus documentos\pos\Tese\ArtigoACMGroup2009\PhysicsSimulation\PhysicsIllustratorSource\PhysicsIllustrator\obj\Debug\PhysicsIllustrator.exe
+C:\Meus documentos\pos\Tese\ArtigoACMGroup2009\PhysicsSimulation\PhysicsIllustratorSource\PhysicsIllustrator\obj\Debug\PhysicsIllustrator.pdb
+C:\Meus documentos\pos\Tese\ArtigoACMGroup2009\PhysicsSimulation\PhysicsIllustratorSource\PhysicsIllustrator\bin\PhysicsIllustrator.exe
+C:\Meus documentos\pos\Tese\ArtigoACMGroup2009\PhysicsSimulation\PhysicsIllustratorSource\PhysicsIllustrator\bin\PhysicsIllustrator.pdb
+C:\Meus documentos\pos\Tese\ArtigoACMGroup2009\PhysicsSimulation\PhysicsIllustratorSource\PhysicsIllustrator\bin\PhysicsIllustrator.SmartTag.dll
+C:\Meus documentos\pos\Tese\ArtigoACMGroup2009\PhysicsSimulation\PhysicsIllustratorSource\PhysicsIllustrator\bin\PhysicsIllustrator.SmartTag.pdb
+C:\Meus documentos\pos\Tese\ArtigoACMGroup2009\PhysicsSimulation\PhysicsIllustratorSource\PhysicsIllustrator\obj\Debug\ResolveAssemblyReference.cache
+C:\Meus documentos\pos\Tese\ArtigoACMGroup2009\PhysicsSimulation\PhysicsIllustratorSource\PhysicsIllustrator\obj\Debug\CollabDialog.resources
+C:\Meus documentos\pos\Tese\ArtigoACMGroup2009\PhysicsSimulation\PhysicsIllustratorSource\PhysicsIllustrator\obj\Debug\SessionDialog.resources
+C:\Meus documentos\pos\Tese\ArtigoACMGroup2009\PhysicsSimulation\PhysicsIllustratorSource\PhysicsIllustrator\obj\Debug\AboutBox.resources
+C:\Meus documentos\pos\Tese\ArtigoACMGroup2009\PhysicsSimulation\PhysicsIllustratorSource\PhysicsIllustrator\obj\Debug\BodyPropertiesForm.resources
+C:\Meus documentos\pos\Tese\ArtigoACMGroup2009\PhysicsSimulation\PhysicsIllustratorSource\PhysicsIllustrator\obj\Debug\PhysicsIllustrator.csproj.GenerateResource.Cache
+C:\PhysicsSimulation\PhysicsIllustratorSource\PhysicsIllustrator\bin\PhysicsIllustrator.exe.config
+C:\PhysicsSimulation\PhysicsIllustratorSource\PhysicsIllustrator\obj\Debug\PhysicsIllustrator.exe
+C:\PhysicsSimulation\PhysicsIllustratorSource\PhysicsIllustrator\obj\Debug\PhysicsIllustrator.pdb

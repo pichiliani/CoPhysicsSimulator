@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ServGames">
+</Property><Property Name="Solution File" Value="C:\Meus documentos\pos\Tese\ArtigoCSCWD2009\PhysicsSimulation\ClienteServidor\SERVURAGAMES\SERVGAMES\ServGames.sln">
+</Property><Property Name="Date" Value="quinta-feira, 23 de outubro de 2008">
+</Property><Property Name="Time" Value="10:09">
+</Property></Properties><Event ErrorLevel="2" Project="ServGames" Source="ServGames.csproj" Description="Project file is not writable: C:\Meus documentos\pos\Tese\ArtigoCSCWD2009\PhysicsSimulation\ClienteServidor\SERVURAGAMES\SERVGAMES\ServGames.csproj">
+</Event><Event ErrorLevel="2" Project="ServGames" Source="ServGames.csproj" Description="Unable to save converted project file.">
+</Event><Event ErrorLevel="3" Project="ServGames" Source="ServGames.csproj" Description="Not Converted">
+</Event><Event ErrorLevel="2" Project="" Source="ServGames.sln" Description="Solution file 'C:\Meus documentos\pos\Tese\ArtigoCSCWD2009\PhysicsSimulation\ClienteServidor\SERVURAGAMES\SERVGAMES\ServGames.sln' cannot be converted because it cannot be modified. To convert the solution, change the permissions on the solution file to allow modification and re-open it.">
+</Event><Event ErrorLevel="3" Project="" Source="ServGames.sln" Description="Not Converted">
+</Event></UpgradeLog>

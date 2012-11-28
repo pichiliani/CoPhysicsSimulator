@@ -1,0 +1,2 @@
+InkBoard
+InkBoard, a collaborative sketching application designed for the Tablet PC, was developed at MIT. It enables design teams to interact with each other by using real-time ink strokes. It uses the Conference API to support video and audio conferencing

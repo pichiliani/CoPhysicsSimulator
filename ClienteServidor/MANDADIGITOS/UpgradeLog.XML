@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MandaDigitos">
+</Property><Property Name="Solution File" Value="C:\Meus documentos\pos\Tese\ArtigoCSCWD2009\PhysicsSimulation\ClienteServidor\MANDADIGITOS\MandaDigitos.sln">
+</Property><Property Name="User Options File" Value="C:\Meus documentos\pos\Tese\ArtigoCSCWD2009\PhysicsSimulation\ClienteServidor\MANDADIGITOS\MandaDigitos.suo">
+</Property><Property Name="Date" Value="quinta-feira, 23 de outubro de 2008">
+</Property><Property Name="Time" Value="10:46">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MandaDigitos.sln" Description="File successfully backed up as C:\Meus documentos\pos\Tese\ArtigoCSCWD2009\PhysicsSimulation\ClienteServidor\MANDADIGITOS\Backup\MandaDigitos.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MandaDigitos.suo" Description="File successfully backed up as C:\Meus documentos\pos\Tese\ArtigoCSCWD2009\PhysicsSimulation\ClienteServidor\MANDADIGITOS\Backup\MandaDigitos.suo">
+</Event><Event ErrorLevel="0" Project="MandaDigitos" Source="MandaDigitos.csproj" Description="Project file successfully backed up as C:\Meus documentos\pos\Tese\ArtigoCSCWD2009\PhysicsSimulation\ClienteServidor\MANDADIGITOS\Backup\MandaDigitos.csproj">
+</Event><Event ErrorLevel="0" Project="MandaDigitos" Source="MandaDigitos.csproj.user" Description="Project user file successfully backed up as C:\Meus documentos\pos\Tese\ArtigoCSCWD2009\PhysicsSimulation\ClienteServidor\MANDADIGITOS\Backup\MandaDigitos.csproj.user">
+</Event><Event ErrorLevel="0" Project="MandaDigitos" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Meus documentos\pos\Tese\ArtigoCSCWD2009\PhysicsSimulation\ClienteServidor\MANDADIGITOS\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MandaDigitos" Source="MandaDigitos.cs" Description="File successfully backed up as C:\Meus documentos\pos\Tese\ArtigoCSCWD2009\PhysicsSimulation\ClienteServidor\MANDADIGITOS\Backup\MandaDigitos.cs">
+</Event><Event ErrorLevel="0" Project="MandaDigitos" Source="App.ico" Description="File successfully backed up as C:\Meus documentos\pos\Tese\ArtigoCSCWD2009\PhysicsSimulation\ClienteServidor\MANDADIGITOS\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="MandaDigitos" Source="MandaDigitos.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MandaDigitos" Source="MandaDigitos.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MandaDigitos.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MandaDigitos.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MandaDigitos" Source="MandaDigitos.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

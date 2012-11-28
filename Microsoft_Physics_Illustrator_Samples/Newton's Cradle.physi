@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MagicDocument xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0">
+  <Gravity strokeid="32" Vector="-106,6773" Origin="2646,2884" />
+  <Bodies>
+    <PolygonalBody strokeid="2" anchored="true" density="1" cfriction="1" elasticity="0.75" fillcolor="255,128,128,64">
+      <Vertex>6669,2051</Vertex>
+      <Vertex>21234,2051</Vertex>
+      <Vertex>21233,4644</Vertex>
+      <Vertex>6667,4644</Vertex>
+    </PolygonalBody>
+    <EllipticalBody strokeid="4" anchored="false" density="6" cfriction="0.4" elasticity="0.95" fillcolor="255,192,192,192">
+      <MajorAxis>1643</MajorAxis>
+      <MinorAxis>1643</MinorAxis>
+      <Orientation>21.95879</Orientation>
+      <CenterPoint>7715,10823</CenterPoint>
+    </EllipticalBody>
+    <EllipticalBody strokeid="5" anchored="false" density="6" cfriction="0.4" elasticity="0.95" fillcolor="255,192,192,192">
+      <MajorAxis>1642</MajorAxis>
+      <MinorAxis>1641</MinorAxis>
+      <Orientation>47.2255</Orientation>
+      <CenterPoint>11068,10841</CenterPoint>
+    </EllipticalBody>
+    <EllipticalBody strokeid="9" anchored="false" density="6" cfriction="0.4" elasticity="0.95" fillcolor="255,192,192,192">
+      <MajorAxis>1640</MajorAxis>
+      <MinorAxis>1639</MinorAxis>
+      <Orientation>54.7536354</Orientation>
+      <CenterPoint>14395,10885</CenterPoint>
+    </EllipticalBody>
+    <EllipticalBody strokeid="13" anchored="false" density="6" cfriction="0.4" elasticity="0.95" fillcolor="255,192,192,192">
+      <MajorAxis>1638</MajorAxis>
+      <MinorAxis>1634</MinorAxis>
+      <Orientation>50.5892677</Orientation>
+      <CenterPoint>17718,10797</CenterPoint>
+    </EllipticalBody>
+    <EllipticalBody strokeid="19" anchored="false" density="6" cfriction="0.4" elasticity="0.95" fillcolor="255,192,192,192">
+      <MajorAxis>1635</MajorAxis>
+      <MinorAxis>1631</MinorAxis>
+      <Orientation>61.8576851</Orientation>
+      <CenterPoint>28029,4625</CenterPoint>
+    </EllipticalBody>
+  </Bodies>
+  <Mechanisms>
+    <Rod strokeid="27" length="7540.4243912395277">
+      <EndpointA strokeref="4" attachloc="37,-2" />
+      <EndpointB strokeref="2" attachloc="-6119,-67" />
+    </Rod>
+    <Rod strokeid="28" length="7515.1593462813544">
+      <EndpointA strokeref="5" attachloc="71,7" />
+      <EndpointB strokeref="2" attachloc="-2944,-14" />
+    </Rod>
+    <Rod strokeid="29" length="7514.1869154287078">
+      <EndpointA strokeref="9" attachloc="-2,42" />
+      <EndpointB strokeref="2" attachloc="495,65" />
+    </Rod>
+    <Rod strokeid="30" length="7381.7611042352219">
+      <EndpointA strokeref="13" attachloc="9,24" />
+      <EndpointB strokeref="2" attachloc="3882,92" />
+    </Rod>
+    <Rod strokeid="31" length="7656.0032001038244">
+      <EndpointA strokeref="2" attachloc="6581,92" />
+      <EndpointB strokeref="19" attachloc="70,-21" />
+    </Rod>
+  </Mechanisms>
+  <Ink>AJwNHQSSEKgGAwJFNRkUMggA8BUCAAAsQjMIALQQAgAALEIPSRGrqtNBFauq00GrqtNBALBRRQAAqEEVq6rTQauq00EA4NBFAACIQhWrqtNBq6rTQQBwHEYAAIDBFauq00GrqtNBAMyeRgBQwcUeBwyDpOFV1AAKvgHlAoL+A3P4DbJBJOZ7yyyZ5sbmTWw5PNk85S8shl6qpa3hMX4HwlLNnvmybJJlz4ZpKlAAAASgAADzLK1JCe8hUqAVNnw5k2WV3I+XPEVeEjIWbAsF7k5tiBLNkliWW5YAAAAAAAAAAAAAAIL9Gfo1ZYAAAAAAFgLcssCwACyyywAAJKiKlJsYpUqBVhUtypSygAAAAAABKAAAACwsAsAAACbNhZZctk2FllllixUWWBKlAm5U2Tcss3LKJZZQCo4B2QGC/gWr+Ba6s3CLYlHbJyy6KYlWCXLKlXKmyVLAEpKSpYFiyy5ZZWVMa7IsxpWbETzLDM8xWUblsWFBFlAWWWVFipQFS4stgv4G+/gb+ypuFlixQuBFgsm5Sxc2EqWFlirFxUss2Alk1FlubzSbm5c2WsoTc2WWUFlWAWWLKsFlissWGoEqEpLKlXKiwBcBCo4B2QGC/gWr+Ba6s3CLYlHbJyy6KYlWCXLKlXKmyVLAEpKSpYFiyy5ZZWVMa7IsxpWbETzLDM8xWUblsWFBFlAWWWVFipQFS4stgv4G+/gb+ypuFlixQuBFgsm5Sxc2EqWFlirFxUss2Alk1FlubzSbm5c2WsoTc2WWUFlWAWWLKsFlissWGoEqEpLKlXKiwBcCCo4B2QGC/gWr+Ba6s3CLYlHbJyy6KYlWCXLKlXKmyVLAEpKSpYFiyy5ZZWVMa7IsxpWbETzLDM8xWUblsWFBFlAWWWVFipQFS4stgv4G+/gb+ypuFlixQuBFgsm5Sxc2EqWFlirFxUss2Alk1FlubzSbm5c2WsoTc2WWUFlWAWWLKsFlissWGoEqEpLKlXKiwBcDCo4B2QGC/gWr+Ba6s3CLYlHbJyy6KYlWCXLKlXKmyVLAEpKSpYFiyy5ZZWVMa7IsxpWbETzLDM8xWUblsWFBFlAWWWVFipQFS4stgv4G+/gb+ypuFlixQuBFgsm5Sxc2EqWFlirFxUss2Alk1FlubzSbm5c2WsoTc2WWUFlWAWWLKsFlissWGoEqEpLKlXKiwBcECo4B2QGC/gWr+Ba6s3CLYlHbJyy6KYlWCXLKlXKmyVLAEpKSpYFiyy5ZZWVMa7IsxpWbETzLDM8xWUblsWFBFlAWWWVFipQFS4stgv4G+/gb+ypuFlixQuBFgsm5Sxc2EqWFlirFxUss2Alk1FlubzSbm5c2WsoTc2WWUFlWAWWLKsFlissWGoEqEpLKlXKiwBcACnLSAYL+BLv4ExhYFgAWAAAAAWAAAAlCUlAAlJQAAAAABLKASpQAAAAsAACC/ghb+CGZsm5bAFyiyywFiospNylbcRLKi5ZvLZU2JRYIsm5RbKhcsq8osLZKWLzcqWVcossSypZZUssqWWVLFlRZZUsssoAKab0Bgv4Iu/gjGAAEoACwLAsACwACwAAALAAAAAAAABYAVFgABLFSkoCC/ghj+CGVJZVm4JZss3LKqKFuXLLEssqGpYLcpLEWyLLLWUXLLBLKS7y2TcouVKSyiWblA7viksuJZUqVLKEWUApw1AGC/gyT+DJQAAWAAAABKAAAAAAAEosAAAAAAAAAASgSiKSygAAVLFCC/gh7+CIZZUssqWWUllSjcssJZZuUsUrFLlrlJZaipVSWVEtyixblloyiyxm5SblsqopNRLLLLWEWEsoWFyypZZUssssFgAp23QGC/hCD+EIRKBKAAAWWAFIBYFgAAAACUAAAllAlAlAEUARQAAAAAAAAAIL+CFv4IXblFyyjcJZTYuKWXNyylQuWVKS3KFEsC5bJZuWWSkollWy3CykSwSzcssqWWbCWwlsJUssqUm5UpLKlllSyypZZUssqUApkogGC/hPT+E9ctSxElJ2KliM8llyKhZVLgZsssNhYhqFRNhS5cWbLMnVLiXiPM85jQZbBbmyyxZZYqWWC/dH7plEoIUCWWWWUlgqWWUlSbCooSksolBKBKBCgSyxZUoAAAACKAApXlQGC/Vn6vioWFlhYBYAAIUCFllAAAACUlAAABZYWFlgALACC/X36/ksoJHJtzSWWdy1U2WXCxUsGbKuXKsWwsQqaCbllipZYtzYFk2Fi5subBZZYssKA</Ink>
+</MagicDocument>

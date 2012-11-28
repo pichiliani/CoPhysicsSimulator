@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MagicDocument xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0">
+  <Gravity strokeid="6" Vector="26,7938" Origin="1085,10636" />
+  <Bodies>
+    <PolygonalBody strokeid="4" anchored="true" density="1" cfriction="1" elasticity="0.75" fillcolor="255,0,128,0">
+      <Vertex>2078,19013</Vertex>
+      <Vertex>24218,19063</Vertex>
+      <Vertex>24215,15856</Vertex>
+      <Vertex>18448,15880</Vertex>
+      <Vertex>15789,14090</Vertex>
+      <Vertex>12582,14103</Vertex>
+      <Vertex>9922,12313</Vertex>
+      <Vertex>6715,12327</Vertex>
+      <Vertex>5224,10885</Vertex>
+      <Vertex>2017,10899</Vertex>
+    </PolygonalBody>
+    <PolygonalBody strokeid="7" anchored="false" density="8" cfriction="1" elasticity="0.75" fillcolor="255,128,128,128">
+      <Vertex>19592,15467</Vertex>
+      <Vertex>24117,15467</Vertex>
+      <Vertex>24118,14021</Vertex>
+      <Vertex>19592,14021</Vertex>
+    </PolygonalBody>
+    <EllipticalBody strokeid="8" anchored="false" density="2" cfriction="1" elasticity="0.5" fillcolor="255,0,0,0">
+      <MajorAxis>793</MajorAxis>
+      <MinorAxis>790</MinorAxis>
+      <Orientation>77.63662</Orientation>
+      <CenterPoint>20227,14981</CenterPoint>
+    </EllipticalBody>
+    <EllipticalBody strokeid="15" anchored="false" density="2" cfriction="1" elasticity="0.5" fillcolor="255,0,0,0">
+      <MajorAxis>791</MajorAxis>
+      <MinorAxis>788</MinorAxis>
+      <Orientation>79.110466</Orientation>
+      <CenterPoint>23577,15002</CenterPoint>
+    </EllipticalBody>
+  </Bodies>
+  <Mechanisms>
+    <PinJoint strokeid="20" length="0" torque="0" cfriction="1">
+      <EndpointA strokeref="7" attachloc="-1628,237" />
+      <EndpointB strokeref="8" attachloc="0,0" />
+    </PinJoint>
+    <PinJoint strokeid="21" length="0" torque="0" cfriction="1">
+      <EndpointA strokeref="7" attachloc="1722,258" />
+      <EndpointB strokeref="15" attachloc="0,0" />
+    </PinJoint>
+    <PropulsiveForce strokeid="22" Vector="-1799,555">
+      <Body strokeref="8" attachloc="-13,-641" />
+    </PropulsiveForce>
+    <PropulsiveForce strokeid="23" Vector="-2196,662">
+      <Body strokeref="8" attachloc="-172,-561" />
+    </PropulsiveForce>
+    <PropulsiveForce strokeid="24" Vector="1693,-79">
+      <Body strokeref="8" attachloc="119,577" />
+    </PropulsiveForce>
+    <PropulsiveForce strokeid="25" Vector="1587,27">
+      <Body strokeref="8" attachloc="-66,656" />
+    </PropulsiveForce>
+    <PropulsiveForce strokeid="26" Vector="2116,0">
+      <Body strokeref="15" attachloc="-3,635" />
+    </PropulsiveForce>
+    <PropulsiveForce strokeid="27" Vector="1481,-53">
+      <Body strokeref="15" attachloc="103,635" />
+    </PropulsiveForce>
+    <PropulsiveForce strokeid="28" Vector="-1826,450">
+      <Body strokeref="15" attachloc="-82,-556" />
+    </PropulsiveForce>
+    <PropulsiveForce strokeid="29" Vector="-2169,476">
+      <Body strokeref="15" attachloc="-214,-582" />
+    </PropulsiveForce>
+  </Mechanisms>
+  <Ink>ANcKHQS+DvQEAwJFNRkUMggA8BUCAAAsQjMIALQQAgAALEIPJxGrqtNBFUn+00GPrBZC7PqVQu71xsUVSf7TQY+sFkLYT1ZF7k3GxR4ID4LxtfBvkAAK4gKgBYL8xfmMAAAABYBYAAAAWAAAAAAAAAJ83r3jNdzcs+GbDLakScnw5ZWO25pJm2oZ2VJkuJ5mzc7lzpljD3KiXw9qSOTyNllhYlICdknnOxkssrZSRGtAKlQAABsQFJUCxsWTctSjUllWWbJFStiRKmzXSJG4M2RFsltkm5stlTs9HtxcJbEqW5ss3NlmtwNzs4CzZZCJZR2VlyrCbgJ3I1JSa7eLzzgHZizcERYlgVLLLlS3KJblAsXLRNGyBKLK3AkuFyioQIL+CDv4INCVE2CWUCUOdgG4JRYWJQlljNFBYqbhYWFhRZc0LLLLFOasFAAAAALLAAsLAAAAAAAAAAACwAAABYBtyit5SXLlVLCyl3llyxWblsJZLKSkoSgAAAAAALFSwFlBNzQLfB25LcoIsVlgAAWBYAVKWLNuLc3Nl5UWS3NyxU3LAAAAALLFRQtZUUQUm4XKhUAAALAAAAAKS4cBgvxt+N7AAAAllJQAAAAAAACoAAAFgAAAQIL+CCP4IHWWSrLERkszYllqrQFJZYWKhasgBcsqyWpbllzYWVNllhm5VlWWSpsqAAqdAZ8Cgv4Sm/hKVENzsXLk2VFWWWHM8zzzsXEWWJM9zsXJsk7LIsTpYspKAsLACwpFgeYiLl11Zsmc2SlShISzZpLJcsqVKJZUqVLLNyiWWVAABLKSgAALLCwqCwCC/g3b+Dd1hYAAAAAAAAAAJQAVUJdmWxYqAtygZuWEoEoAAAAAEoEoSgAJQAAktzZZYFhZZZYsFlzYFzYsFgXNlgAXAQp+1AGC/hOz+E7VixUorLLKSkspKCUliwsFgEpLKSkUSkoSyyykspKlgLmwlSiywsTZUpKSgAWLFgWWFlhYWLFQgv4Mk/gyUWBYAAAlJZSWVFhZZYWCyosVFlhZUVLLLLLmyypYspFSyyygCxUs3LKlm5QEqUCWKllJYpFikpLAFwIKftQBgv4Ts/hO1YsVKKyyykpLKSglJYsLBYBKSykpFEpKEssspLKSpYC5sJUossLE2VKSkoAFixYFlhZYWFixUIL+DJP4MlFgWAAAJSWUllRYWWWFgsqLFRZYWVFSyyyy5ssqWLKRUsssoAsVLNyypZuUBKlAlipZSWKRYpKSwBcACiw4gv4Te/hN+pZYssABFSyxZUsUBYWC/g0j+DSRLFlliyyxRKFiossqWWVLAAowQoL+F3v4XhllSyxYsCKSpYsss2JQShYKioL+DSP4NJEWVLFlliypQACksssqWLAsCioxgv4Vk/hWnNXNiwm5ssuLlllS1FhKllCC/gvb+C9yTc2BZYFiiUlACUAKNUaC/hXb+Fd9WUkWWWbixQMspNyylkpYlllSyyyggv4L0/gvUMoqKiykssKBKSyksoJZRLKACiMxgv4Rm/hGUIWElmqSkoktS2WLLNqC/g4L+DgwsAAsAACwAAojLYL+EYP4RfYncNJZFmzZKWWLFliywIL+DgP4OBlAAAAAAAAKJCyC/hTr+FN5SczznmaOLNnYWLFllhZQgv4OC/g4MAAAAALAlAoeJYL+Fcv4VvmsWCpsUiiywssAgv4OG/g4cAAsCwAACicrgv4Ze/hmNSLJZZsubLEublUlyyywgv4MG/gwdlFipc2WKllCUAAKLj6C/hm7+GcZuUbgbAi3G04JU3KlsuWwFkqC/gwL+DAxKRUssssqFktEpKEoAAA=</Ink>
+</MagicDocument>

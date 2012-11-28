@@ -1,0 +1,2 @@
+obj\Debug\ServGames.exe
+obj\Debug\ServGames.pdb

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ServerTeste">
+</Property><Property Name="Solution File" Value="C:\Meus documentos\pos\Tese\ArtigoCSCWD2009\PhysicsSimulation\server\ServerTeste\ServerTeste.sln">
+</Property><Property Name="User Options File" Value="C:\Meus documentos\pos\Tese\ArtigoCSCWD2009\PhysicsSimulation\server\ServerTeste\ServerTeste.suo">
+</Property><Property Name="Date" Value="quinta-feira, 23 de outubro de 2008">
+</Property><Property Name="Time" Value="10:10">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ServerTeste.sln" Description="File successfully backed up as C:\Meus documentos\pos\Tese\ArtigoCSCWD2009\PhysicsSimulation\server\ServerTeste\Backup\ServerTeste.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ServerTeste.suo" Description="File successfully backed up as C:\Meus documentos\pos\Tese\ArtigoCSCWD2009\PhysicsSimulation\server\ServerTeste\Backup\ServerTeste.suo">
+</Event><Event ErrorLevel="0" Project="ServerTeste" Source="ServerTeste.csproj" Description="Project file successfully backed up as C:\Meus documentos\pos\Tese\ArtigoCSCWD2009\PhysicsSimulation\server\ServerTeste\Backup\ServerTeste.csproj">
+</Event><Event ErrorLevel="0" Project="ServerTeste" Source="ServerTeste.csproj.user" Description="Project user file successfully backed up as C:\Meus documentos\pos\Tese\ArtigoCSCWD2009\PhysicsSimulation\server\ServerTeste\Backup\ServerTeste.csproj.user">
+</Event><Event ErrorLevel="0" Project="ServerTeste" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Meus documentos\pos\Tese\ArtigoCSCWD2009\PhysicsSimulation\server\ServerTeste\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ServerTeste" Source="Class1.cs" Description="File successfully backed up as C:\Meus documentos\pos\Tese\ArtigoCSCWD2009\PhysicsSimulation\server\ServerTeste\Backup\Class1.cs">
+</Event><Event ErrorLevel="0" Project="ServerTeste" Source="App.ico" Description="File successfully backed up as C:\Meus documentos\pos\Tese\ArtigoCSCWD2009\PhysicsSimulation\server\ServerTeste\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="ServerTeste" Source="ServerTeste.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ServerTeste" Source="ServerTeste.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ServerTeste.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ServerTeste.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ServerTeste" Source="ServerTeste.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

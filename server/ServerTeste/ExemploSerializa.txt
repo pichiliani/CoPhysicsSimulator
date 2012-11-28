@@ -1,0 +1,33 @@
+using System.Runtime.Serialization.Formatters.Binary;
+using System.IO;
+
+
+
+
+        public byte[] getByteArrayWithObject(Object o)
+        {
+            /*
+
+                1) Create a new MemoryStream class with the CanWrite property set to true
+                (should be by default, using the default constructor).
+
+                2) Create a new instance of the BinaryFormatter class.
+
+                3) Pass the MemoryStream instance and your object to be serialized to the
+                Serialize method of the BinaryFormatter class.
+
+                4) Call the ToArray method on the MemoryStream class to get a byte array
+                with the serialized data.
+
+            */
+
+
+            MemoryStream ms = new MemoryStream();
+            BinaryFormatter bf1 = new BinaryFormatter();
+            bf1.Serialize(ms, o);
+            return ms.ToArray();
+        }
+
+
+      
+

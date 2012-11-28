@@ -1,0 +1,5 @@
+bin\Debug\CollabServer.exe
+bin\Debug\CollabServer.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CollabServer.exe
+obj\Debug\CollabServer.pdb

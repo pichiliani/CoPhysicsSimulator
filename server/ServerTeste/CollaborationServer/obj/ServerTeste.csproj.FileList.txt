@@ -1,0 +1,5 @@
+obj\Debug\ServerTeste.exe
+obj\Debug\ServerTeste.pdb
+bin\Debug\ServerTeste.exe
+bin\Debug\ServerTeste.pdb
+obj\Debug\ResolveAssemblyReference.cache
